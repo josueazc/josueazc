@@ -4,35 +4,39 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://x.com/josue_azc">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/josueazc">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:josueazo28@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</div>
+## Connect With Me
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josue_azc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/josue.azc)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josueazo28@gmail.com)
 
 <br/>
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 I'm a Full Stack Developer with a passion for building products that make a real difference. Here you can explore the projects I've worked on and my journey through software development.
 
-# About Me
+## About Me
 
 - 🔭 I'm currently building [VELAR](https://github.com/josueazc/VELAR) — blockchain infrastructure for political bond transfers on Stellar.
 - 🌱 I'm learning more about **Web3**, **Blockchain**, and **Soroban** smart contracts.
 - 💬 Ask me about **React**, **TypeScript**, **Next.js**, and **NestJS**.
 - 🥅 Goal: Build solutions that generate real impact for others.
 - ⚡ Fun fact: I love design and building things from scratch.
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="./sasuke.gif" width="280"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 # Tech Stack
 
@@ -82,6 +86,8 @@ I'm a Full Stack Developer with a passion for building products that make a real
   <img height="50" src="https://skillicons.dev/icons?i=figma" />
   <img height="50" src="https://skillicons.dev/icons?i=postman" />
 </div>
+
+<br/>
 
 # GitHub Stats
 
