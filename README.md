@@ -16,11 +16,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="./sasuke.gif" width="240"/>
-</div>
-
-<br/>
+<img align="right" src="./sasuke.gif" width="260" style="margin-left: 20px"/>
 
 I'm a Full Stack Developer with a passion for building products that make a real difference. Here you can explore the projects I've worked on and my journey through software development.
 
@@ -31,6 +27,8 @@ I'm a Full Stack Developer with a passion for building products that make a real
 - 💬 Ask me about **React**, **TypeScript**, **Next.js**, and **NestJS**.
 - 🥅 Goal: Build solutions that generate real impact for others.
 - ⚡ Fun fact: I love design and building things from scratch.
+
+<br clear="right"/>
 
 <br/>
 
