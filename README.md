@@ -89,7 +89,7 @@ I'm a Full Stack Developer with a passion for building products that make a real
   <img height="50" src="https://skillicons.dev/icons?i=figma" />
   <img height="50" src="https://skillicons.dev/icons?i=postman" />
   <img height="50" src="https://skillicons.dev/icons?i=pr" />
-  <img height="50" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="50" />
+  <img height="50" src="https://cdn.simpleicons.org/canva/00C4CC" />
 </div>
 
 <br/>
