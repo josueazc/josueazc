@@ -1,80 +1,84 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=josueazc&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=8b949e)
+![Header](./header.png)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="100">
-      <a href="https://x.com/josue_azc">
-        <img src="https://skillicons.dev/icons?i=twitter" width="48" /><br/>
-        <sub><b>X</b></sub>
-      </a>
-    </td>
-    <td width="30"></td>
-    <td align="center" width="100">
-      <a href="https://github.com/josueazc">
-        <img src="https://skillicons.dev/icons?i=github" width="48" /><br/>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
-    <td width="30"></td>
-    <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" /><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td width="30"></td>
-    <td align="center" width="100">
-      <a href="mailto:josueazo28@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" /><br/>
-        <sub><b>Gmail</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
 
-</div>
+<a href="https://x.com/josue_azc">
+  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/josueazc">
+  <img src="https://skillicons.dev/icons?i=github" width="42" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:josueazo28@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="42" />
+</a>
 
-<div align="center">
+<br/>
+<br/>
 
-&nbsp;
+**X** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GitHub** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **LinkedIn** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Gmail**
 
-## Hi, I'm Josué — Full Stack Developer
+<br/>
+<br/>
 
-- Currently building **Full Stack** products and **SaaS platforms**.
-- Ask me about **React**, **TypeScript**, **Next.js**, **NestJS**, and modern web architecture.
-- Goal: Build solutions that generate real impact for others.
-- I love design and building things from scratch.
-- Blockchain & Web3 enthusiast — actively learning and exploring.
+Currently building **Full Stack** products and **SaaS platforms**
+<br/>
+Ask me about **React**, **TypeScript**, **Next.js** and **NestJS**
+<br/>
+Goal: Build solutions that generate real impact for others
+<br/>
+Blockchain & Web3 enthusiast — actively learning and exploring
+
+<br/>
+<br/>
 
 ---
 
-## Tech Stack
+### Languages
 
-### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,php,py,html,css)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,ts,php,py,html,css" />
+
+<br/>
+<br/>
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,astro,nodejs,nestjs,tailwind)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,nodejs,nestjs,tailwind" />
+
+<br/>
+<br/>
 
 ### Databases & ORM
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma" />
+
+<br/>
+<br/>
 
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman" />
+
+<br/>
+<br/>
 
 ---
 
-## Blockchain & Web3
+### GitHub Stats
 
-Enthusiast and learner — currently exploring **Stellar**, **Soroban** smart contracts, and on-chain asset tokenization.
+<br/>
 
----
+![Josué's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueazc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueazc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
-## GitHub Stats
-
-![Josué's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueazc&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueazc&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
 </div>
