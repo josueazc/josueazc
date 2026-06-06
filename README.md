@@ -87,7 +87,8 @@ I'm a Full Stack Developer with a passion for building products that make a real
 
 <div align="center">
 
-![Josué's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueazc&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueazc&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=josueazc&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueazc&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
