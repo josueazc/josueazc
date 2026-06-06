@@ -20,6 +20,8 @@
 <tr>
 <td valign="top">
 
+# Hi, I'm Josué 👋
+
 I'm a Full Stack Developer with a passion for building products that make a real difference. Here you can explore the projects I've worked on and my journey through software development.
 
 ### About Me
@@ -96,6 +98,6 @@ I'm a Full Stack Developer with a passion for building products that make a real
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=josueazc&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueazc&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueazc&theme=radical)
 
 </div>
