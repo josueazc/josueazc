@@ -89,7 +89,7 @@ I'm a Full Stack Developer with a passion for building products that make a real
   <img height="50" src="https://skillicons.dev/icons?i=figma" />
   <img height="50" src="https://skillicons.dev/icons?i=postman" />
   <img height="50" src="https://skillicons.dev/icons?i=pr" />
-  <img height="50" src="https://cdn.simpleicons.org/canva/00C4CC" />
+  <img height="50" src="./canva.svg" />
 </div>
 
 <br/>
