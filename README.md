@@ -16,11 +16,13 @@
 
 <br/>
 
-<img align="right" src="./sasuke.gif" width="260" style="margin-left: 20px"/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
 
 I'm a Full Stack Developer with a passion for building products that make a real difference. Here you can explore the projects I've worked on and my journey through software development.
 
-## About Me
+### About Me
 
 - 🔭 I'm currently building [VELAR](https://github.com/josueazc/VELAR) — blockchain infrastructure for political bond transfers on Stellar.
 - 🌱 I'm learning more about **Web3**, **Blockchain**, and **Soroban** smart contracts.
@@ -28,7 +30,12 @@ I'm a Full Stack Developer with a passion for building products that make a real
 - 🥅 Goal: Build solutions that generate real impact for others.
 - ⚡ Fun fact: I love design and building things from scratch.
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="300">
+  <img src="./sasuke.gif" width="260"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
