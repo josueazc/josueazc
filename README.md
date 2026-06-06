@@ -4,18 +4,23 @@
 
 <br/>
 
-## Connect With Me
+<div align="center">
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josue_azc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josue.azc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/josue.azc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josueazo28@gmail.com)
 
+</div>
+
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<div align="center">
+  <img src="./sasuke.gif" width="240"/>
+</div>
+
+<br/>
 
 I'm a Full Stack Developer with a passion for building products that make a real difference. Here you can explore the projects I've worked on and my journey through software development.
 
@@ -26,15 +31,6 @@ I'm a Full Stack Developer with a passion for building products that make a real
 - 💬 Ask me about **React**, **TypeScript**, **Next.js**, and **NestJS**.
 - 🥅 Goal: Build solutions that generate real impact for others.
 - ⚡ Fun fact: I love design and building things from scratch.
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="./sasuke.gif" width="280"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
