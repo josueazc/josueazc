@@ -1,11 +1,40 @@
 <div align="center">
 
-<a href="https://x.com/josue_azc"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-<a href="https://github.com/josueazc"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-<a href="https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="mailto:josueazo28@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://x.com/josue_azc">
+        <img src="https://skillicons.dev/icons?i=twitter" width="48" /><br/>
+        <sub><b>X</b></sub>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="https://github.com/josueazc">
+        <img src="https://skillicons.dev/icons?i=github" width="48" /><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" /><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center" width="100">
+      <a href="mailto:josueazo28@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" /><br/>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<div align="center">
 
 &nbsp;
 
@@ -42,8 +71,6 @@ Enthusiast and learner — currently exploring **Stellar**, **Soroban** smart co
 ---
 
 ## GitHub Stats
-
-<div align="center">
 
 ![Josué's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueazc&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josueazc&layout=compact&theme=tokyonight&hide_border=true)
