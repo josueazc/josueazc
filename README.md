@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://josueazofeifa.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-josueazofeifa.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://josueazofeifa.vercel.app/)
+[![Calendly](https://img.shields.io/badge/Book_a_call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/josueazo28)
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josue_azc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josue.azc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395)
@@ -40,21 +42,6 @@ Full Stack Developer from San José, Costa Rica 🇨🇷. I build products end t
 </td>
 </tr>
 </table>
-
-<br/>
-
-# Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**VELAR**](https://github.com/Velar-Bonds/Velar) | Tokenized political bonds with escrow and a public on-chain audit trail. Multi-country (CR, CO, BR, AR). | Next.js · NestJS · Supabase · Stellar |
-| [**IDIO**](https://github.com/josueazc/IDIO) | Sealed-bid auctions on Stellar using zero-knowledge proofs: private bids, verifiable results. | TypeScript · Soroban · ZK |
-| **Esquinita del Sabor** | SaaS for small restaurants: POS, inventory, expenses, SINPE receipts, analytics and AI. | Next.js · Supabase · AI |
-| [**NOVA**](https://github.com/josueazc/NOVA) | AI-powered civic platform to compare political proposals and explore candidates. | JavaScript · AI |
-
-# Open Source
-
-Merged contributions to [GrantFox OSS](https://github.com/GrantChain/GrantFox-OSS), [GrantFox Landing](https://github.com/GrantChain/GrantFox-Landing), [Neko](https://github.com/Neko-Protocol), [Veridion](https://github.com/Veridion-Id), [Thalos](https://github.com/Thalos-Infrastructure), [Pollar](https://github.com/pollar-xyz), [Fortgate](https://github.com/fort-gate), [Trustless OSS](https://github.com/Trustless-OSS), [NFTopia](https://github.com/NFTopia-Foundation), [Stellopay](https://github.com/Stellopay) and [Grainlify](https://github.com/Grainlify).
 
 <br/>
 
@@ -98,6 +85,16 @@ Merged contributions to [GrantFox OSS](https://github.com/GrantChain/GrantFox-OS
   <img height="50" src="https://skillicons.dev/icons?i=supabase" />
 </div>
 
+## Web3
+
+<div align="center">
+
+[![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)](https://stellar.org)
+[![Soroban](https://img.shields.io/badge/Soroban-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)](https://soroban.stellar.org)
+[![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+
+</div>
+
 ## Tools
 
 <div align="center">
@@ -108,6 +105,9 @@ Merged contributions to [GrantFox OSS](https://github.com/GrantChain/GrantFox-OS
   <img height="50" src="https://skillicons.dev/icons?i=figma" />
   <img height="50" src="https://skillicons.dev/icons?i=postman" />
   <img height="50" src="https://skillicons.dev/icons?i=githubactions" />
+  <img height="50" src="https://skillicons.dev/icons?i=pnpm" />
+  <img height="50" src="https://skillicons.dev/icons?i=vitest" />
+  <img height="50" src="https://skillicons.dev/icons?i=sentry" />
   <img height="50" src="https://skillicons.dev/icons?i=pr" />
 </div>
 
@@ -120,5 +120,21 @@ Merged contributions to [GrantFox OSS](https://github.com/GrantChain/GrantFox-OS
 ![GitHub Streak](https://streak-stats.demolab.com?user=josueazc&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josueazc&theme=radical)
+
+</div>
+
+<br/>
+
+# Let's Talk
+
+<div align="center">
+
+Have a project in mind or want to collaborate? Book a call or check out my work.
+
+<br/>
+
+<a href="https://calendly.com/josueazo28"><img src="https://img.shields.io/badge/Schedule_a_meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white" height="40"/></a>
+<a href="https://josueazofeifa.vercel.app/"><img src="https://img.shields.io/badge/Visit_my_website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
+<a href="mailto:josueazo28@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
 
 </div>
