@@ -6,6 +6,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://josueazofeifa.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josue_azc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josue.azc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-azofeifa-c%C3%B3rdoba-947986395)
@@ -22,14 +23,15 @@
 
 # Hi, I'm Josué 👋
 
-I'm a Full Stack Developer with a passion for building products that make a real difference. Here you can explore the projects I've worked on and my journey through software development.
+Full Stack Developer from San José, Costa Rica 🇨🇷. I build products end to end — from the API and the database to the last pixel — mostly in the **Stellar** ecosystem.
 
 ### About Me
 
-- 🔭 I'm currently building [VELAR](https://github.com/josueazc/VELAR) — blockchain infrastructure for political bond transfers on Stellar.
-- 🌱 I'm learning more about **Web3**, **Blockchain**, and **Soroban** smart contracts.
-- 💬 Ask me about **React**, **TypeScript**, **Next.js**, and **NestJS**.
-- 🥅 Goal: Build solutions that generate real impact for others.
+- 💼 Full Stack Developer at **[GrantChain](https://github.com/GrantChain)**, the team behind [GrantFox](https://grantfox.xyz) — open-source funding on Stellar.
+- 🎓 Currently building **GrantFox Academy**: courses, server-graded assessments and verifiable badges for people starting in Web3.
+- 🗳️ Creator of [VELAR](https://github.com/Velar-Bonds/Velar) — transparent traceability for political bonds on Stellar, built for LATAM.
+- 🌍 Active open-source contributor across the Stellar ecosystem: 85+ merged PRs.
+- 💬 Ask me about **Next.js**, **NestJS**, **TypeScript**, **Supabase** and **Soroban**.
 - ⚡ Fun fact: I love design and building things from scratch.
 
 </td>
@@ -38,6 +40,21 @@ I'm a Full Stack Developer with a passion for building products that make a real
 </td>
 </tr>
 </table>
+
+<br/>
+
+# Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**VELAR**](https://github.com/Velar-Bonds/Velar) | Tokenized political bonds with escrow and a public on-chain audit trail. Multi-country (CR, CO, BR, AR). | Next.js · NestJS · Supabase · Stellar |
+| [**IDIO**](https://github.com/josueazc/IDIO) | Sealed-bid auctions on Stellar using zero-knowledge proofs: private bids, verifiable results. | TypeScript · Soroban · ZK |
+| **Esquinita del Sabor** | SaaS for small restaurants: POS, inventory, expenses, SINPE receipts, analytics and AI. | Next.js · Supabase · AI |
+| [**NOVA**](https://github.com/josueazc/NOVA) | AI-powered civic platform to compare political proposals and explore candidates. | JavaScript · AI |
+
+# Open Source
+
+Merged contributions to [GrantFox OSS](https://github.com/GrantChain/GrantFox-OSS), [GrantFox Landing](https://github.com/GrantChain/GrantFox-Landing), [Neko](https://github.com/Neko-Protocol), [Veridion](https://github.com/Veridion-Id), [Thalos](https://github.com/Thalos-Infrastructure), [Pollar](https://github.com/pollar-xyz), [Fortgate](https://github.com/fort-gate), [Trustless OSS](https://github.com/Trustless-OSS), [NFTopia](https://github.com/NFTopia-Foundation), [Stellopay](https://github.com/Stellopay) and [Grainlify](https://github.com/Grainlify).
 
 <br/>
 
@@ -53,6 +70,7 @@ I'm a Full Stack Developer with a passion for building products that make a real
   <img height="50" src="https://skillicons.dev/icons?i=php" />
   <img height="50" src="https://skillicons.dev/icons?i=py" />
   <img height="50" src="https://skillicons.dev/icons?i=prisma" />
+  <img height="50" src="https://skillicons.dev/icons?i=rust" />
 </div>
 
 ## Frontend
@@ -61,6 +79,7 @@ I'm a Full Stack Developer with a passion for building products that make a real
   <img height="50" src="https://skillicons.dev/icons?i=js" />
   <img height="50" src="https://skillicons.dev/icons?i=ts" />
   <img height="50" src="https://skillicons.dev/icons?i=react" />
+  <img height="50" src="https://skillicons.dev/icons?i=angular" />
   <img height="50" src="https://skillicons.dev/icons?i=nextjs" />
   <img height="50" src="https://skillicons.dev/icons?i=svelte" />
   <img height="50" src="https://skillicons.dev/icons?i=astro" />
@@ -88,6 +107,7 @@ I'm a Full Stack Developer with a passion for building products that make a real
   <img height="50" src="https://skillicons.dev/icons?i=vercel" />
   <img height="50" src="https://skillicons.dev/icons?i=figma" />
   <img height="50" src="https://skillicons.dev/icons?i=postman" />
+  <img height="50" src="https://skillicons.dev/icons?i=githubactions" />
   <img height="50" src="https://skillicons.dev/icons?i=pr" />
 </div>
 
