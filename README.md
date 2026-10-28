@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%"/>
+  <img src="./banner.png" alt="Josué Azofeifa — Full Stack & Web3 Developer — josueazo28@gmail.com" width="100%"/>
 </div>
 
 <br/>
